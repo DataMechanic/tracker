@@ -21,3 +21,19 @@
 
 :no_entry:
 blabla
+
+==highlight==
+
+<style>
+.button-green{
+  width:100px;
+  background-color:green;
+  border-radius: 5px;
+  text-align: center;
+}  
+</style>
+<div class="button-green">done</div>   
+<br>
+<span class="button-green">It **works!**</span>  
+
+<span style="color:blue">blue</span>

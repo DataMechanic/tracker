@@ -8,7 +8,7 @@
 | 2024-01-05 | true  |  false |
 | 2024-01-07 | true  |  false |
 | 2024-01-12 | true  |  false |
-
+| 2024-01-16 | true  |  false |
 
 :red_circle:  
 :red_square:  

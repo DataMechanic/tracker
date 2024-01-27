@@ -10,6 +10,7 @@
 | 2024-01-12 | true  |  false |
 | 2024-01-16 | true  |  false |
 | 2024-01-22 | false |  false |
+| 2024-01-27 | false |  false |
 
 :red_circle:  
 :red_square:  
